@@ -1,8 +1,3 @@
-# cover_page_new
-
-An app that makes the lab report and assignment cover page-making process easy.
-
-
 ## 📘 Cover Crafter
 Cover Crafter is a Flutter-based mobile application designed to help students effortlessly create beautiful and professional university assignment and lab report cover pages in seconds.
 
