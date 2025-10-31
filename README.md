@@ -7,7 +7,7 @@ Cover Crafter is a Flutter-based mobile application designed to help students ef
 📄 Instant Download & Share – Generate, download, and share your customized cover page directly from the app. <br>
 ⚡ User-Friendly Interface – Simple, intuitive, and fast — perfect for students managing multiple assignments. <br>
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 Framework: Flutter <br>
 Language: Dart <br>
 State Management: (GetX) <br>
